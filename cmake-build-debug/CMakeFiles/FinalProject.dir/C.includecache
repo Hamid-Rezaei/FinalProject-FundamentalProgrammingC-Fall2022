@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Projects/C_work_space/FinalProject/GameFunctions.c
+GameFunctions.h
+F:/Projects/C_work_space/FinalProject/GameFunctions.h
+
+F:/Projects/C_work_space/FinalProject/GameFunctions.h
+stdio.h
+-
+stdlib.h
+-
+windows.h
+-
+math.h
+-
+time.h
+-
+string.h
+-
+conio.h
+-
+ctype.h
+-
+limits.h
+-
+
